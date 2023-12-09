@@ -20,4 +20,4 @@ Imagine working on an application that relies on third-party libraries or framew
 
 In summary, Maven simplifies project management by automating tasks related to dependencies, compilation, and packaging. In the upcoming sessions, we'll explore how to install and configure Maven on your machine.
 
-Stay tuned for the next session!
+
