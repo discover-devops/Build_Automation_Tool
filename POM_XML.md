@@ -1,5 +1,8 @@
 The `pom.xml` file is a Project Object Model file used by Maven to manage a project's build, reporting, and documentation. It is an XML file that contains configuration information for Maven, including project dependencies, plugins, goals, and other settings.
 
+![image](https://github.com/discover-devops/Build_Automation_Tool/assets/53135263/75261b49-cd99-4799-b332-f1e8e581d664)
+
+
 ### Importance of `pom.xml` in a Maven Project:
 
 1. **Dependency Management:**
