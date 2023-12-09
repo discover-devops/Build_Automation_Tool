@@ -8,7 +8,6 @@ Hello team! Welcome back to our learning session. In this section, we are diving
 
 Whether you're a software developer, automation engineer, test engineer, or DevOps professional, understanding build tools is essential. Maven, specifically tailored for Java projects, helps manage dependencies and streamline the project build lifecycle.
 
-Certainly! Here's the provided information arranged in bullet points:
 
 - **Third-Party Libraries and Frameworks:**
   - Business logic development often involves using third-party libraries or open-source frameworks.
