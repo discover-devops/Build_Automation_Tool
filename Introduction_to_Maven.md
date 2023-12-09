@@ -1,5 +1,8 @@
 # Maven Tutorial
 
+![image](https://github.com/discover-devops/Build_Automation_Tool/assets/53135263/6071fbb1-3b30-4716-9ac2-e544ea8eeb30)
+
+
 ## Introduction
 
 Hello team! Welcome back to our learning session. In this section, we are diving into Maven, a powerful build tool that plays a crucial role in software development. We'll cover the fundamentals, installation, configuration, project creation, the significance of the POM XML file, project building, and execution.
